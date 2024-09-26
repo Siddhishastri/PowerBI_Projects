@@ -25,6 +25,7 @@ Zomato, a global restaurant search and discovery platform, operates in multiple 
 **6. Cuisine-Based Ranking:** Showcase top-ranking restaurants based on the number of cuisines they serve.
 
 **7. Multi-Page Report:** Design a multi-page report that aligns with the company’s brand theme and allows for easy navigation between report pages.
+
 **8. Multi-Device Access:** Ensure that the report is accessible via web browsers and mobile devices, allowing users to view insights on the go.
 
 
@@ -101,17 +102,19 @@ IF('Fact Table'[Aggregate rating] = 0 && 'Fact Table'[Aggregate rating] <= 1.7, 
    "Asia")**
 
 
-**Visualizations you can see here,** link
-
+**Visualizations you can see here,** [link
+](https://github.com/Siddhishastri/PowerBI_Projects/blob/main/Data_Manipulation_and_Reporting_with_PowerBI/Zomato_Project.pbix)
 The following visualizations were created to provide insights based on the data:
 
 **Global View:**
 
 Displayed restaurant information across continents and countries.
-Top Restaurants by Rating and Cost:
+
+**Top Restaurants by Rating and Cost:**
 
 Showcased the best performing restaurants based on customer ratings and the lowest average cost.
-Filters:
+
+**Filters:**
 
 Enabled filtering by geographic dimensions like continent, country, and city.
 Added filters based on restaurant services (online delivery, table booking) and rating colors.
