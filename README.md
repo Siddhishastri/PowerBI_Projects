@@ -1,4 +1,4 @@
-# Python Projects:
+# PowerBI Projects:
 
 1. [Zomato Global Restaurants Analysis with Power BI](https://github.com/Siddhishastri/PowerBI_Projects/tree/main/Data_Manipulation_and_Reporting_with_PowerBI)
    
