@@ -1,4 +1,5 @@
 # Zomato Global Restaurants Analysis with Power BI
+![Zomato_Project-1](https://github.com/user-attachments/assets/f1508d33-69e0-410f-abb7-c581a45835b4)
 ## Project Overview
 
 This project aims to uncover business insights from Zomato's global restaurant data by building an interactive Power BI dashboard. The analysis helps Zomato gauge its business performance across regions and understand restaurant metrics like ratings, cost, and cuisine offerings.
