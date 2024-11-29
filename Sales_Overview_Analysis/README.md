@@ -1,7 +1,6 @@
+# Sales Overview Dashboard
 
 ![sales_overview_dashboard_ss](https://github.com/user-attachments/assets/f4c62c85-693c-4599-8c0c-df631a46cad7)
-
-# Sales Overview Dashboard
 
 ## Project Overview
 The Sales Overview Dashboard is a Power BI project designed to provide actionable insights into sales performance, profit trends, and quantity metrics across four key regions: Central, East, South, and West. This dashboard allows users to dynamically filter and analyze data, enabling better business decisions based on historical and comparative metrics.
