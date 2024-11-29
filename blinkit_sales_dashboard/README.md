@@ -1,7 +1,6 @@
+# Blinkit Grocery Sales Dashboard 🛒
 
 ![blinkit_sales_dashboard_img](https://github.com/user-attachments/assets/48694927-5c40-420e-9619-49b97dddc59e)
-
-# Blinkit Grocery Sales Dashboard 🛒
 
 This project involves creating an interactive Blinkit Grocery Sales Dashboard in Power BI, aimed at providing insights into sales performance, customer behavior, and trends. The dashboard showcases key metrics and visualizations to enable data-driven decision-making.
 
